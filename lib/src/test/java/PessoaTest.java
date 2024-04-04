@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import java.time.LocalDateTime;
 
-public class PessoaTeste {
+public class PessoaTest {
 
     @Test
     void deveCalcularIdadeCorretamente() {
