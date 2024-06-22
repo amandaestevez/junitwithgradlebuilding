@@ -1,4 +1,6 @@
-import org.example.Pessoa;
+package junitwithgradlebuilding.lib.src.test.java;
+
+import junitwithgradlebuilding.lib.src.main.Pessoa;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

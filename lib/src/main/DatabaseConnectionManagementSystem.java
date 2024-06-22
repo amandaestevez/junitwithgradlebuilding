@@ -1,4 +1,4 @@
-package org.example;
+package junitwithgradlebuilding.lib.src.main;
 
 import java.util.logging.Logger;
 

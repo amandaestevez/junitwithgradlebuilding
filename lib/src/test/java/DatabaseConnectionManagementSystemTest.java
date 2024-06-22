@@ -1,5 +1,7 @@
-import org.example.DatabaseConnectionManagementSystem;
-import org.example.Pessoa;
+package junitwithgradlebuilding.lib.src.test.java;
+
+import junitwithgradlebuilding.lib.src.main.DatabaseConnectionManagementSystem;
+import junitwithgradlebuilding.lib.src.main.Pessoa;
 import org.junit.jupiter.api.*;
 
 import java.time.LocalDateTime;
