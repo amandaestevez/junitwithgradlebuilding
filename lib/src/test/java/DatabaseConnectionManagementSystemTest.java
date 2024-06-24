@@ -1,6 +1,6 @@
 package junitwithgradlebuilding.lib.src.test.java;
 
-import junitwithgradlebuilding.lib.src.main.DatabaseConnectionManagementSystem;
+import junitwithgradlebuilding.lib.src.main.*;
 import junitwithgradlebuilding.lib.src.main.Pessoa;
 import org.junit.jupiter.api.*;
 
